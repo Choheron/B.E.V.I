@@ -4,4 +4,4 @@
 ## Developers:
 * Jan Nelson, *Leader*
 * Thomas Campbell
-* Aaron Spillman giraffe
+* Aaron Spillman
