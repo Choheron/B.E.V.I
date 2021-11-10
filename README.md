@@ -5,5 +5,5 @@
 
 ## Developers:
 * Jan Nelson, *Leader*
-* Thomas Campbell
+* Thomas Campbell, *UI Designer, Programmer*
 * Aaron Spillman
