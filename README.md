@@ -4,6 +4,6 @@
 **10/27/2021 - SPECIAL NOTE:** Currently, B.E.V.I. is being managed by the Unity Cloud at the current moment, as it is a unity project.
 
 ## Developers:
-* Jan Nelson, *Leader*
-* Thomas Campbell, *UI Designer, Programmer*
-* Aaron Spillman
+* Jan Nelson: *Leader, Programmer, Artist*
+* Thomas Campbell: *UI Designer, Programmer, Artist*
+* Aaron Spillman: *Programmer, Artist*
