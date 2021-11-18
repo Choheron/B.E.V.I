@@ -6,8 +6,8 @@
 ## Releases:
 **Current Release:** B.E.V.I. Map Maker [v1.0.1-Alpha](https://github.com/Choheron/B.E.V.I/releases/tag/v1.0.1-Alpha)
 **Past Releases:**
-* B.E.V.I. [v1.0-Alpha](https://github.com/Choheron/B.E.V.I/releases/tag/v1.0-Alpha)
-* B.E.V.I. [v0.1-prealpha](https://github.com/Choheron/B.E.V.I/releases/tag/v0.1-prealpha)
+* [v1.0-Alpha](https://github.com/Choheron/B.E.V.I/releases/tag/v1.0-Alpha)
+* [v0.1-prealpha](https://github.com/Choheron/B.E.V.I/releases/tag/v0.1-prealpha)
 
 
 ## Developers:
