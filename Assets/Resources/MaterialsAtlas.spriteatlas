@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaterialsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 3
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 1
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+    - {fileID: 2800000, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+    - {fileID: 2800000, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+    - {fileID: 2800000, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+    - {fileID: 2800000, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+    - {fileID: 2800000, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+    - {fileID: 2800000, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+    - {fileID: 2800000, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -609900865258582429, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: 2024471732086302279, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: 8555061435080464549, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: -3170996427594708662, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: -5421122817861688107, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: 6639320033410945403, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: -684362521302337260, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: -4032378820734161982, guid: 3a6212110513a224abc13f489717e26a, type: 3}
+  - {fileID: -209115858054194160, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: -7721930160264368259, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: 4844694796908619574, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: 168393157372352420, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: -3327236997101911525, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: 4264954575787834215, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: 7459103803248561433, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: -7634521238375643961, guid: 875c40242095bb548bc7b7af4f9011dd, type: 3}
+  - {fileID: -7124690824679978962, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: 6100309694824782145, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: -514155732258607306, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: -4235469581755790106, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: -4466474475659486660, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: 8447363158248965129, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: 2006206155165646671, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: 6653016532349825364, guid: 37b4e2257864b664795177cc6590f0fe, type: 3}
+  - {fileID: 100629243086721481, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: 7616897896048931282, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: 6925491030575794868, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: -8272036607683434362, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: 7649753022584730489, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: -6636314130558756244, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: 4500637420128559238, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: 3869711736441214418, guid: ce0fb4d6efa10964dada2e66ca2f373b, type: 3}
+  - {fileID: 1366937164229300576, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: -5349501575500127300, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: 4755360984981285863, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: 598861515066098741, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: 3858000851532822838, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: -7575753529625724166, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: -5889923915696589470, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: -645118983255434392, guid: 1b98b92954edc9843b0e6b355cd9298a, type: 3}
+  - {fileID: 4702747562156236417, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: 1042438939994307399, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: 7628150255194885980, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: -2343707150626673434, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: -7682058876613447840, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: 8145206319972132031, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: 3798202368827676242, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: -2878288581361653353, guid: 3727577af31a2e1479acbb1cc7f31c5b, type: 3}
+  - {fileID: -6590089413186265633, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: 2005778022365979041, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: -7946983825658555683, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: 5117291037684809052, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: -7390963863811925606, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: -754571091544353968, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: -4036439169995007611, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: -6509974613480304137, guid: 5a2b6ccb739c96c40a7132bc20b969e0, type: 3}
+  - {fileID: -6873171599145922590, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  - {fileID: 926344648963258262, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  - {fileID: 3442660215648360067, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  - {fileID: -2083678569139807462, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  - {fileID: 3464681224165743648, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  - {fileID: -1028805979072795655, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  - {fileID: -3515039697053900031, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  - {fileID: -8095339188545837162, guid: c9b521cdcf0cb684aa125dedfdc8b84c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - matDirt_5
+  - matDirt_4
+  - matDirt_7
+  - matDirt_6
+  - matDirt_1
+  - matDirt_0
+  - matDirt_3
+  - matDirt_2
+  - matGrass_7
+  - matGrass_4
+  - matGrass_5
+  - matGrass_2
+  - matGrass_3
+  - matGrass_0
+  - matGrass_1
+  - matGrass_6
+  - matSand_4
+  - matSand_5
+  - matSand_6
+  - matSand_7
+  - matSand_0
+  - matSand_1
+  - matSand_2
+  - matSand_3
+  - matGravel_7
+  - matGravel_6
+  - matGravel_5
+  - matGravel_4
+  - matGravel_3
+  - matGravel_2
+  - matGravel_1
+  - matGravel_0
+  - matConcrete_0
+  - matConcrete_7
+  - matConcrete_6
+  - matConcrete_5
+  - matConcrete_4
+  - matConcrete_3
+  - matConcrete_2
+  - matConcrete_1
+  - matCobble_1
+  - matCobble_0
+  - matCobble_3
+  - matCobble_2
+  - matCobble_5
+  - matCobble_4
+  - matCobble_7
+  - matCobble_6
+  - matWood_5
+  - matWood_4
+  - matWood_7
+  - matWood_6
+  - matWood_1
+  - matWood_0
+  - matWood_3
+  - matWood_2
+  - matBrush_4
+  - matBrush_5
+  - matBrush_6
+  - matBrush_7
+  - matBrush_0
+  - matBrush_1
+  - matBrush_2
+  - matBrush_3
+  m_RenderDataMap: {}
+  m_Tag: MaterialsAtlas
+  m_IsVariant: 0
