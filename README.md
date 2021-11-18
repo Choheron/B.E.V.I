@@ -12,5 +12,5 @@
 
 ## Developers:
 * Jan Nelson: *Project Leader, Programmer, Artist, Back End Wizard*
-* Thomas Campbell: *UI Designer, Programmer, Artist, Version Control Leader*
+* Thomas Campbell: *UI Designer/Programmer, Programmer, UX Designer/Programmer, Artist, Version Control Leader*
 * Aaron Spillman: *Programmer, Artist, Public Relations*
