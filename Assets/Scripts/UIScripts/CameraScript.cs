@@ -90,7 +90,7 @@ public class CameraScript : MonoBehaviour {
     }
     
     void Update() {
-        if(mainDriver.editorMode == 0 && mainDriver.selectedBrush == 0 && Input.GetKeyDown(KeyCode.Mouse0)) {
+        if((mainDriver.editorMode == 0) && (mainDriver.selectedBrush == 0 && Input.GetKeyDown(KeyCode.Mouse0)) && (!EventSystem.current.IsPointerOverGameObject())) {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
             WAF temp;

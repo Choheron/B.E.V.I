@@ -27416,6 +27416,7 @@ MonoBehaviour:
   mainCam: {fileID: 519420032}
   parameterText: {fileID: 1378197156}
   genNewMapButton: {fileID: 1933140562}
+  infoBroxScript: {fileID: 84272255}
 --- !u!1 &2018429228
 GameObject:
   m_ObjectHideFlags: 0

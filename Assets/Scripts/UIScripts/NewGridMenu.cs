@@ -40,9 +40,13 @@ public class NewGridMenu : MonoBehaviour
     /// </summary>
     private InputField heightField;
     /// <summary>
-    /// MaterialType for the currently selected Material
+    /// MaterialType for the currently selected Material.
     /// </summary>
     private MaterialType currMaterial;
+    /// <summary>
+    /// Info Box driver script.
+    /// </summary>
+    public InfoBox infoBroxScript;
 
     void Start() {
         self = this.gameObject;
@@ -67,6 +71,10 @@ public class NewGridMenu : MonoBehaviour
         mainDriver.gm.NewMap(width, height, currMaterial);
 
         mainCam.jumpTo(mainDriver.gm.GetWorldPosition(width/2, height/2));
+        if(infoBroxScript.collapseScript.isOpen) {
+            infoBroxScript.clearInfoBox();
+            infoBroxScript.collapseScript.collapseMenu();
+        }
     }
 
     public void setCurrentMaterial(int matIn) {

@@ -13,7 +13,7 @@ namespace Vanity {
     {
         public static string[] rdPf = new string[] {"Road", "Street", "Alley", "Avenue", "Circle", "Causeway", "Boulevard", "Highway", "Lane", "Plaza", "Way", "Drive", "Bypass"};
         public static string[] rdNames = new string[] {"Campbell", "Nelson", "Spillman", "Broken", "Chestnut", "Moonset", "Elephant", "Thomas", "January", "Aaron", "King James", "Black Brick", "Treefall", "Beverly Hills", "Fallen Knight",
-                                                "Port", "Bent Tree", "Amberly", "Virginia Beach", "Sunray", "Fabulous", "Triptych", "Gateway", "Sunrise Kingdom", "Reapvale", "Brokenland", "Thomas Campbell", "January Nelson", "Aaron Spillman",
+                                                "Port", "Bent Tree", "Amberly", "Virginia Beach", "Sunray", "Fabulous", "Triptych", "Gateway", "Sunrise Kingdom", "Reapvale", "Brokenland", "Thomas Campbell Memborial", "January Nelson Memorial", "Aaron Spillman Memorial",
                                                 "Pendulum", "Butterfly", "Ulysses S. Grant", "Andrew Garfield", "Iron Mountian", "Lonely Mountian", "Ruby", "Whiterun", "Deckard", "Apple Blossom", "George Custer", "Abernethy", "Clearfield",
                                                 "River", "Columbia", "London Bridge", "Lee", "Edgewood", "Wyoming", "Cataract", "Ivy", "Bellevue", "Prospect", "Inscryption", "Cole", "Winchester", "Remington", "Shotgun", "Vermont", "Morningside",
                                                 "Heron", "Andrew Ryan", "Rick Deckard", "Black Rock", "Main", "Smithsonian", "Overgrowth", "Midanola", "Arrakis", "Coalmine", "Murky Water", "Goodybag", "Tranquil", "Oxpond", "Trader", "Blueberry",
